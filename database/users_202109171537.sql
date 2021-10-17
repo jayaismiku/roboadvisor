@@ -1,0 +1,8 @@
+INSERT INTO rsapp.users (email,new_email,password_hash,name,activate_hash,reset_hash,reset_expires,`level`,active,created_at,updated_at) VALUES
+	 ('administrator@rumahkusyurgaku.id',NULL,'$2y$10$UxYjaD06FCcxkNbs2l2Z4.LibA1C2Kom4qbV5x4OOEgG0VIytF7cS','Administrator','Vk1S2vJZD3Nx76zRhXWldYEC5GM0Twrp',NULL,NULL,1,1,'2021-09-13 12:27:47','2021-09-13 12:27:47'),
+	 ('direktur@rumahkusyurgaku.id',NULL,'$2y$10$Qgd3tprICzvOfwCu/Djy1eF.RKJVVGJBvcy.Hp9QyaZlXRe3f.NVe','Direktur','yfCp4EtadYhXGl1v8wrjQWT65L9sHMne',NULL,NULL,2,1,'2021-09-13 12:27:47','2021-09-13 12:27:47'),
+	 ('managermarketing@rumahkusyurgaku.id',NULL,'$2y$10$8l1yK2aCkMq0H1s1fWHqr.o.hG3O.8u/Ls.Rk7blv2bXtiGT4OOqu','Manager Marketing','GDicWAZsjy0gv3tpdXL7OCEr1TSfua5x',NULL,NULL,3,1,'2021-09-13 12:27:47','2021-09-13 12:27:47'),
+	 ('marketing@rumahkusyurgaku.id',NULL,'$2y$10$QcXLqREM9O5BnP7L8bmmSOh9wobt0g0BET0xvGRQjdRA9Wk8OgmtC','Marketing','17nqAMo5YjtEWpIRvDmcsVgwT3HiJ4ue',NULL,NULL,4,1,'2021-09-13 12:27:47','2021-09-13 12:27:47'),
+	 ('pembeli.pertama@gmail.com',NULL,'$2y$10$ohegkhRYG/59.kLkDOyV1OovxqLAqE30tZP3CNS.yeDwUk1kYoMya','Pembeli Pertama','xdAlvKCyXDmLqsWIorY9bp7c4gTF2Sfe',NULL,NULL,5,1,'2021-09-13 12:27:47','2021-09-13 12:27:47'),
+	 ('pembeli.kedua@gmail.com',NULL,'$2y$10$y.i7Qzz.Z1GR9UzL0pyov.tywuW6caN4059/JVKQO7xOjmkgDWvx.','Pembeli kedua','90up2FPIlKEvcC1WkN6wTGO7d4ZYqmrH',NULL,NULL,5,1,'2021-09-13 12:27:47','2021-09-13 12:27:47'),
+	 ('pembeli.ketiga@gmail.com',NULL,'$2y$10$tYLogzKjh3TbYQ2J9ouAbu0lKgCBnuhDuhyK3E0ShFkNAw3V5Vnlu','Pembeli Ketiga','fmXH23CElqoKAWY8y06jTOsucUSgQ1GB',NULL,NULL,5,1,'2021-09-13 12:27:47','2021-09-13 12:27:47');
